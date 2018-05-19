@@ -1,0 +1,12 @@
+@import './variables';
+@import './mixins';
+@import './components/navigation';
+@import './components/portfolio';
+@import './components/annoyingComponentOne';
+@import './components/bio';
+@import './components/contact';
+
+* {
+    margin: 0;
+    padding: 0;
+}
